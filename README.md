@@ -1,6 +1,14 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
-## Your Task
+For this project, I was to modify starter code to create a text editor as a progressive web app. 
+
+## Link to Deployed Application 
+
+<https://dashboard.heroku.com/apps/peaceful-harbor-60160>
+
+## Screenshot
+
+![Screenshot](/client/src/images/PWAscreenshot.png)
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
 
